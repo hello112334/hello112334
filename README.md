@@ -38,5 +38,12 @@ https://openresearch.icyanstudio.net
 https://coolplayer.icyanstudio.net
 
 - Voice Note(Android Mobile App - internal test)  
-https://play.google.com/apps/internaltest/4701673881921649411
+  - Google Group  
+  https://groups.google.com/u/0/g/icyanstudio-android-mobile-app-close-test-group
+
+  - Android  
+  https://play.google.com/store/apps/details?id=com.icyanstudio.voice_note
+
+  - Web  
+  https://play.google.com/apps/testing/com.icyanstudio.voice_note 
 
