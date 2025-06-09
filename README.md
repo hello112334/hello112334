@@ -34,7 +34,7 @@ https://openmap.icyanstudio.net
 - openresearch  
 https://openresearch.icyanstudio.net
 
-- opencareer
+- opencareer  
 https://opencareer.icyanstudio.net
 
 - coolplayer  
