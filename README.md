@@ -31,7 +31,7 @@ https://wowomap.icyanstudio.net
 - openmap  
 https://openmap.icyanstudio.net
 
-- World View
+- World View  
 https://worldview.icyanstudio.net
 
 - Open Research  
