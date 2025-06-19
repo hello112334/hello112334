@@ -31,13 +31,16 @@ https://wowomap.icyanstudio.net
 - openmap  
 https://openmap.icyanstudio.net
 
-- openresearch  
+- World View
+https://worldview.icyanstudio.net
+
+- Open Research  
 https://openresearch.icyanstudio.net
 
-- opencareer  
+- Open Career  
 https://opencareer.icyanstudio.net
 
-- coolplayer  
+- Cool Player  
 https://coolplayer.icyanstudio.net
 
 - Voice Note(Android Mobile App - internal test)  
