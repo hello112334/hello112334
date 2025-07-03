@@ -40,7 +40,7 @@ https://openresearch.icyanstudio.net
 - Open Career  
 https://opencareer.icyanstudio.net
 
-- Open School
+- Open School  
 https://openschool.icyanstudio.net
 
 - Cool Player  
