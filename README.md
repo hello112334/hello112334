@@ -33,6 +33,9 @@ https://openmap.icyanstudio.net
 - World View  
 https://worldview.icyanstudio.net
 
+- Resources Hub  
+https://resources.icyanstudio.net
+
 - Open Research  
 https://openresearch.icyanstudio.net
 
