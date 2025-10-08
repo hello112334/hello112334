@@ -48,6 +48,9 @@ https://openschool.icyanstudio.net
 - Cool Player  
 https://coolplayer.icyanstudio.net
 
+- Zen Focus  
+https://zenfocus.icyanstudio.net
+
 - Voice Note(Android Mobile App - internal test)  
   - Google Group  
   https://groups.google.com/u/0/g/icyanstudio-android-mobile-app-close-test-group
