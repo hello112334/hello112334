@@ -24,6 +24,9 @@ Here are some ideas to get you started:
 - Homepage  
 https://www.icyanstudio.net
 
+- Opendata APIs  
+https://api.icyanstudio.net/
+
 - wowomap  
 https://wowomap.icyanstudio.net
 
