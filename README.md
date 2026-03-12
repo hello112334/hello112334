@@ -21,18 +21,47 @@ Here are some ideas to get you started:
 
 ---
 
-## Websites
-- [iCyanstudio](https://www.icyanstudio.net )
-- [Wowomap](https://wowomap.icyanstudio.net)  
-- [Resources](https://resources.icyanstudio.net)
-
----
 
 <p align="center">
-  <a href="https://github.com/OpenTech-Lab/bannkenn"><img src="https://github-readme-stats.vercel.app/api/pin/?username=OpenTech-Lab&repo=bannkenn&theme=radical" width="32%" /></a>
-  <a href="https://github.com/OpenTech-Lab/Sync-Server"><img src="https://github-readme-stats.vercel.app/api/pin/?username=OpenTech-Lab&repo=Sync-Server&theme=radical" width="32%" /></a>
-  <a href="https://github.com/OpenTech-Lab/Sync-Mobile"><img src="https://github-readme-stats.vercel.app/api/pin/?username=OpenTech-Lab&repo=Sync-Mobile&theme=radical" width="32%" /></a>
+  <h2 align="center">Web & Services</h2>
 </p>
 
+<p align="center">
+  <a href="https://www.icyanstudio.net">
+    iCyanstudio
+  </a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://wowomap.icyanstudio.net">
+    Wowomap
+  </a>
+  &nbsp;&nbsp;•&nbsp;&nbsp;
+  <a href="https://resources.icyanstudio.net">
+    Resources
+  </a>
+</p>
+
+<table>
+<tr>
+
+<td align="center">
+<a href="https://github.com/OpenTech-Lab/bannkenn">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=OpenTech-Lab&repo=bannkenn&theme=github_dark&hide_border=true">
+</a>
+</td>
+
+<td align="center">
+<a href="https://github.com/OpenTech-Lab/sync-server">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=OpenTech-Lab&repo=sync-server&theme=github_dark&hide_border=true">
+</a>
+</td>
+
+<td align="center">
+<a href="https://github.com/OpenTech-Lab/Sync-Mobile">
+<img src="https://github-readme-stats.vercel.app/api/pin/?username=OpenTech-Lab&repo=Sync-Mobile&theme=github_dark&hide_border=true">
+</a>
+</td>
+
+</tr>
+</table>
 
 
