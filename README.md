@@ -35,28 +35,39 @@ Here are some ideas to get you started:
   </a>
 </p>
 
-<table>
+<table align="center">
 <tr>
 
-<td align="center">
+<td width="50%" align="center">
 <a href="https://github.com/OpenTech-Lab/bannkenn">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=OpenTech-Lab&repo=bannkenn&theme=github_dark&hide_border=true">
+<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=OpenTech-Lab&repo=bannkenn&theme=transparent&hide_border=true">
 </a>
 </td>
 
-<td align="center">
+<td width="50%" align="center">
 <a href="https://github.com/OpenTech-Lab/sync-server">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=OpenTech-Lab&repo=sync-server&theme=github_dark&hide_border=true">
+<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=OpenTech-Lab&repo=sync-server&theme=transparent&hide_border=true">
 </a>
 </td>
 
-<td align="center">
+</tr>
+
+<tr>
+
+<td width="50%" align="center">
 <a href="https://github.com/OpenTech-Lab/Sync-Mobile">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=OpenTech-Lab&repo=Sync-Mobile&theme=github_dark&hide_border=true">
+<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=OpenTech-Lab&repo=Sync-Mobile&theme=transparent&hide_border=true">
+</a>
+</td>
+
+<td width="50%" align="center">
+<a href="https://github.com/mastodon/mastodon">
+<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=mastodon&repo=mastodon&theme=transparent&hide_border=true">
 </a>
 </td>
 
 </tr>
 </table>
+
 
 
