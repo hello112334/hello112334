@@ -38,13 +38,13 @@ Here are some ideas to get you started:
 
 <td width="50%" align="center">
 <a href="https://github.com/OpenTech-Lab/sync-server">
-<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=OpenTech-Lab&repo=sync-server&theme=transparent&hide_border=true">
+<img width="100%" src="https://opengraph.githubassets.com/1/OpenTech-Lab/sync-server">
 </a>
 </td>
 
 <td width="50%" align="center">
 <a href="https://github.com/OpenTech-Lab/Sync-Mobile">
-<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=OpenTech-Lab&repo=Sync-Mobile&theme=transparent&hide_border=true">
+<img width="100%" src="https://opengraph.githubassets.com/1/OpenTech-Lab/Sync-Mobile">
 </a>
 </td>
 
@@ -54,13 +54,13 @@ Here are some ideas to get you started:
 
 <td width="50%" align="center">
 <a href="https://github.com/OpenTech-Lab/bannkenn">
-<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=OpenTech-Lab&repo=bannkenn&theme=transparent&hide_border=true">
+<img width="100%" src="https://opengraph.githubassets.com/1/OpenTech-Lab/bannkenn">
 </a>
 </td>
 
 <td width="50%" align="center">
 <a href="https://github.com/mastodon/mastodon">
-<img width="100%" src="https://github-readme-stats.vercel.app/api/pin/?username=mastodon&repo=mastodon&theme=transparent&hide_border=true">
+<img width="100%" src="https://opengraph.githubassets.com/1/mastodon/mastodon">
 </a>
 </td>
 
