@@ -1,19 +1,15 @@
 ## Hi there 👋
 
-<!--
-**hello112334/hello112334** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a full-stack engineer in Japan (JST) running **iCyan Studio**. Available for part-time contract work:
 
-Here are some ideas to get you started:
+- 🍎 **App Store rescue**: I fix App Review rejections (Sign in with Apple, IAP errors, account deletion) and resubmit.
+- 🚀 **Tag → TestFlight CI**: GitHub Actions + fastlane pipelines for Flutter/iOS. 235+ successful uploads across 11 repos.
+  See [flutter-testflight-ci](https://github.com/hello112334/flutter-testflight-ci).
+- 🤖 **MCP servers**: connect your API or data to Claude and other AI agents safely.
+  See [OpenMemory](https://github.com/OpenTech-Lab/openmemory).
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+📫 Work inquiries: open an issue titled **Work inquiry** on [flutter-testflight-ci](https://github.com/hello112334/flutter-testflight-ci/issues/new?title=Work%20inquiry).
+
 [![](https://raw.githubusercontent.com/hello112334/hello112334/master/profile-summary-card-output/dark/1-repos-per-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards) [![](https://raw.githubusercontent.com/hello112334/hello112334/master/profile-summary-card-output/dark/2-most-commit-language.svg)](https://github.com/vn7n24fzkq/github-profile-summary-cards)
 
 
